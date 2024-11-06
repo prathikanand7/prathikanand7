@@ -1,14 +1,12 @@
-## Hi there 👋
-<img align="right" width="400" height="300" alt="Coding animation" src="your-animation-url"/>
-
 # Hi there! 👋 I'm Prathik Anand Krishnan
 
 [![Profile Views](https://komarev.com/ghpvc/?username=prathikanand7&color=brightgreen)](https://github.com/prathikanand7)
 [![GitHub followers](https://img.shields.io/github/followers/prathikanand7?label=Follow&style=social)](https://github.com/prathikanand7)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
+[![Twitter Follow](https://img.shields.io/twitter/follow/prathikanand7?style=social)](https://twitter.com/prathikanand7)
+[![My Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logo&Color=white)](https://prathikanand7.github.io/)
 
 ## 💫 About Me
-I'm a passionate developer with a focus on building high-performance, innovative solutions. I enjoy diving into new technologies, contributing to open-source projects, and constantly expanding my skill set. Currently, I'm specializing in C++ and backend development for finance and trading applications.
+I'm a passionate C++ Software developer with a focus on building high-performance, low latency innovative solutions. I enjoy diving into new technologies, creating pet projects, and constantly expanding my skill set. Currently, I'm learning Modern C++ and backend development for finance and trading applications.
 
 ## 🛠️ Tech Stack
 <div align="center">
@@ -43,35 +41,36 @@ I'm a passionate developer with a focus on building high-performance, innovative
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathikanand7&repo=go-quant-OEMS-app&theme=tokyonight" alt="GoQuant OEMS App" />
   </a>
   <a href="https://github.com/prathikanand7/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathikanand7&repo=project2&theme=tokyonight" alt="Another Project" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathikanand7&repo=Quant-Finance-Tools&theme=tokyonight" alt="Quant Finance Applications" />
   </a>
 </p>
 
 ## 🤝 Connect With Me
 <div align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/prathik-anand">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourhandle">
+  <a href="https://x.com/prathikanand7">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://prathikanand7.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
 
 ## 🎯 Goals for 2024
-- [ ] Master advanced C++ and Java concepts
-- [ ] Contribute to 5+ open-source projects
-- [ ] Build a personal portfolio website
+- [x] Master advanced C++ concepts
+- [ ] Contribute to 3+ open-source projects
+- [x] Build a personal portfolio website
+- [x] Create a You Tube Video showing my work
 - [ ] Write regular technical blog posts
 - [ ] Gain proficiency in cloud technologies (AWS, Azure)
 
 ## 📌 Pinned Repositories
 <p align="center">
   <a href="https://github.com/prathikanand7/go-quant-OEMS-app">GoQuant OEMS App</a> •
-  <a href="https://github.com/prathikanand7/repo2">Project 2</a> •
-  <a href="https://github.com/prathikanand7/repo3">Project 3</a>
+  <a href="https://github.com/prathikanand7/Quant-Finance-Tools/tree/main/VanillaVision_TwinPricingEngine">Twin Pricing Engine Application</a> •
+  <a href="https://github.com/prathikanand7/Quant-Finance-Tools/tree/main/order_book">Order Book Application</a>
 </p>
 
 ---
