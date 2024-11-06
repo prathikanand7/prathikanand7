@@ -7,7 +7,7 @@
 
 ## 💫 About Me
 <p align="left">
-I am a dedicated C++ Software Developer with a strong emphasis on building high-performance and low-latency solutions. I thrive on exploring new technologies, building personal projects, and driven to continuously enhance my skills. 
+I am a skilled C++ Software Developer with over 3+ years of experience, specializing in high-performance and low-latency solutions. I am passionate about exploring new technologies, working on challenging projects, and driven to continuously enhance my skills. 
 </p>
 <p> At the moment, I am focused on learning and mastering Modern C++ and delving deep into backend development for finance and trading applications. </p>
 
@@ -73,5 +73,6 @@ I am a dedicated C++ Software Developer with a strong emphasis on building high-
 </p>
 -->
 ---
-⭐️ *From [prathikanand7](https://github.com/prathikanand7)*
+⭐️ *From [prathikanand7](https://github.com/prathikanand7)* 
 ---
+<p align="center">© 2024 Prathik Anand Krishnan. All rights reserved.</p> 
