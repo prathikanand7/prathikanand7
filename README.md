@@ -30,7 +30,7 @@ I'm a passionate developer with a focus on building high-performance, innovative
 </p>
 
 ## 📈 Contribution Graph
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=prathikanand7&theme=tokyo-night)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=prathikanand7&theme=tokyo-night)
 
 ## 🏆 Top Languages
 <p align="center">
