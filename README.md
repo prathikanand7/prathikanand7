@@ -3,7 +3,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=prathikanand7&color=brightgreen)](https://github.com/prathikanand7)
 [![GitHub followers](https://img.shields.io/github/followers/prathikanand7?label=Follow&style=social)](https://github.com/prathikanand7)
 [![Twitter Follow](https://img.shields.io/twitter/follow/prathikanand7?style=social)](https://twitter.com/prathikanand7)
-[![My Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logo&Color=white)](https://prathikanand7.github.io/)
+[![My Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=social&logo=google-chrome&logoColor=white)](https://prathikanand7.github.io/)
 
 ## 💫 About Me
 I'm a passionate C++ Software developer with a focus on building high-performance, low latency innovative solutions. I enjoy diving into new technologies, creating pet projects, and constantly expanding my skill set. Currently, I'm learning Modern C++ and backend development for finance and trading applications.
